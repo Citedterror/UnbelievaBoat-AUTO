@@ -5,13 +5,13 @@ from discord import (ApplicationCommandType, Client, Message, SlashCommand,
 from discord.ext import tasks
 
 guild_ids = [
-    00000000
+    1272416780618436618
 ]  # Only servers where the commands will work in (safety feature). Example: [000000000, 000002311, 123689923]. Use https://support.discord.com/hc/articles/206346498 to find ids.
 
-work_wait_time = 241  # Time in minutes between running the work command. Default: 421
+work_wait_time = 31  # Time in minutes between running the work command. Default: 421
 
 collect_wait_time = (
-    16  # Time in minutes between running the collect colland. Default: 16
+    31  # Time in minutes between running the collect colland. Default: 16
 )
 
 

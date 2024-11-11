@@ -86,4 +86,4 @@ async def on_message(message: Message):
         auto_collect.stop()  # Stop collecting
 
 
-client.run("TOKEN")
+client.run("NDA1NTI2NzE2ODI0NDIwMzYy.G-i2C_.QmocrTtdxnCNT322Dv14PycWWnR1CsApxni2eQ")

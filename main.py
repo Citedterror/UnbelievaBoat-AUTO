@@ -1,6 +1,6 @@
 from asyncio import sleep
 
-from discord import (Client, Message, 
+from discord import (app_commands, Client, Message, Slashcommands, 
                      TextChannel)
 from discord.ext import tasks
 
